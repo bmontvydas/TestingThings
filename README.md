@@ -1,6 +1,7 @@
 # Maintenance Windows
 Maintenance window not found
 # Log Analytics Settings
+|Setting Variable|Value||Setting|asd|
 # Backup Policies
 # Patching Schedules
 Third and fourth Sunday every month
