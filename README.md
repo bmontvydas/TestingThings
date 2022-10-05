@@ -1,4 +1,4 @@
-# Maintenance Windows
+[[_TOC_]]# Maintenance Windows
 Maintenance window not found
 # Log Analytics Settings
 # Backup Policies
